@@ -1,3 +1,8 @@
+# Changes from base:
+'''
+- Build from debian stable
+'''
+
 # Home Assistant Community Add-on: Nginx Proxy Manager
 
 [![GitHub Release][releases-shield]][releases]
